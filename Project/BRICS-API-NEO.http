@@ -1,0 +1,6 @@
+@BRICS_API_NEO_HostAddress = http://localhost:5046
+
+GET {{BRICS_API_NEO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
